@@ -1,0 +1,3 @@
+cd adobe-illustrator-guide
+mkdir css js img
+touch index.html css/styles.css js/scripts.js
