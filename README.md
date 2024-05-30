@@ -89,6 +89,9 @@
             <p>This is some examples of images that you can create by using Adobe Illustrator..</p>
         </section>
 
+<br>
+<br>
+
     </main>
 
     <footer>
