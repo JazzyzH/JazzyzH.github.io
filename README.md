@@ -27,7 +27,7 @@
         
 <section id="overview">
             <h2>Overview: Introduction to Adobe Illustrator</h2>
-            <p>Adobe Illustrator is a premier vector graphics editor and design program used by millions of designers and artists worldwide. Since its release in 1987, Illustrator has become an industry standard for creating vector-based illustrations, logos, icons, typography, and complex graphics. It is a powerful and versatile tool for vector graphic design, offering numerous advantages for professional and aspiring designers. While it has a steep learning curve and can be costly, the benefits and potential it provides for creative expression and professional work are substantial. With patience and practice, users can unlock its full potential and produce stunning, scalable designs..</p>
+            <p>Adobe Illustrator is a premier vector graphics editor and design program used by millions of designers and artists worldwide. Since its release in 1987, Illustrator has become an industry standard for creating vector-based illustrations, logos, icons, typography, and complex graphics. It is a powerful and versatile tool for vector graphic design, offering numerous advantages for professional and aspiring designers. While it has a steep learning curve and can be costly, the benefits and potential it provides for creative expression and professional work are substantial. With patience and practice, users can unlock its full potential and produce stunning, scalable designs.</p>
         </section>
 
 <br>
