@@ -22,7 +22,8 @@
     </header>
 
     <main>
-        <section id="overview">
+        
+<section id="overview">
             <h2>Overview: Introduction to Adobe Illustrator</h2>
             <p>Adobe Illustrator is a premier vector graphics editor and design program used by millions of designers and artists worldwide. Since its release in 1987, Illustrator has become an industry standard for creating vector-based illustrations, logos, icons, typography, and complex graphics. It is a powerful and versatile tool for vector graphic design, offering numerous advantages for professional and aspiring designers. While it has a steep learning curve and can be costly, the benefits and potential it provides for creative expression and professional work are substantial. With patience and practice, users can unlock its full potential and produce stunning, scalable designs..</p>
         </section>
@@ -43,21 +44,32 @@
 
  <section id="negative aspects">
             <h2>Negative aspects in using Adobe Illustrator</h2>
-            <p>Steep Learning Curve: Illustrator's comprehensive toolset can be daunting for beginners. Mastery of the software requires time and practice, which can be overwhelming for new users.
-Cost: As part of the Adobe Creative Cloud, Illustrator requires a subscription, which can be expensive for freelancers and small businesses. There are also no free versions, although Adobe does offer a limited free trial.
-Resource Intensive: Illustrator can be demanding on computer hardware, requiring a powerful system to run smoothly, especially for large and complex projects. This can be a barrier for those with older or less capable computers.
-Complexity for Simple Tasks: For simple graphic design tasks, Illustrator can be overkill. There are lighter, more user-friendly applications available that can accomplish basic design needs without the complexity..</p>
+     <h3>Steep Learning Curve</h3>
+     <p>Illustrator's comprehensive toolset can be daunting for beginners. Mastery of the software requires time and practice, which can be overwhelming for new users..</p>
+     <h3>Cost</h3>
+     <p>As part of the Adobe Creative Cloud, Illustrator requires a subscription, which can be expensive for freelancers and small businesses. There are also no free versions, although Adobe does offer a limited free trial..</p>
+     <h3>Resource Intensive</h3>
+     <p>Illustrator can be demanding on computer hardware, requiring a powerful system to run smoothly, especially for large and complex projects. This can be a barrier for those with older or less capable computers..</p>
+     <h3>Complexity for Simple Tasks</h3>
+     <p>For simple graphic design tasks, Illustrator can be overkill. There are lighter, more user-friendly applications available that can accomplish basic design needs without the complexity..</p>
         </section>
 
  <section id="tips">
             <h2>Tips about using Adobe Illustrator</h2>
-            <p>Learn the Basics: Start with the fundamentals. Focus on mastering the Pen Tool, basic shapes, and text. Plenty of online tutorials can guide you through these initial steps.
-Use Shortcuts: Familiarize yourself with keyboard shortcuts. They can significantly speed up your workflow and make the design process more efficient.
-Work with Layers: Organize your artwork using layers. This makes it easier to manage different elements of your design and apply changes selectively.
-Leverage Libraries: Use Adobe Libraries to store and reuse assets like colors, logos, and graphics. This helps maintain consistency across different projects.
-Experiment with Brushes and Effects: Illustrator offers a variety of brushes and effects to add texture and depth to your designs. Experiment with these tools to enhance your artwork creatively.
-Stay Updated: Keep your software updated to take advantage of new features and improvements Adobe releases. This ensures you have access to the latest tools and bug fixes.
-Practice and Experiment: Regular practice is essential. Try recreating designs you like or experimenting with different styles and techniques to improve your skills..</p>
+     <h3>Learn the Basics</h3>
+     <p>Start with the fundamentals. Focus on mastering the Pen Tool, basic shapes, and text. Plenty of online tutorials can guide you through these initial steps..</p>
+     <h3>Use Shortcuts</h3>
+     <p>Familiarize yourself with keyboard shortcuts. They can significantly speed up your workflow and make the design process more efficient..</p>
+     <h3>Work with Layers</h3>
+     <p>Organize your artwork using layers. This makes it easier to manage different elements of your design and apply changes selectively..</p>
+     <h3>Leverage Libraries</h3>
+     <p>Use Adobe Libraries to store and reuse assets like colors, logos, and graphics. This helps maintain consistency across different projects..</p>
+     <h3>Experiment with Brushes and Effects</h3>
+     <p>Illustrator offers a variety of brushes and effects to add texture and depth to your designs. Experiment with these tools to enhance your artwork creatively..</p>
+     <h3>Stay Updated</h3>
+     <p>Keep your software updated to take advantage of new features and improvements Adobe releases. This ensures you have access to the latest tools and bug fixes..</p>
+     <h3>Practice and Experiment</h3>
+     <p>Regular practice is essential. Try recreating designs you like or experimenting with different styles and techniques to improve your skills..</p>
         </section>
 
     </main>
