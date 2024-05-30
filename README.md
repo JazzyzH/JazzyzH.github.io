@@ -28,6 +28,7 @@
             <p>Adobe Illustrator is a premier vector graphics editor and design program used by millions of designers and artists worldwide. Since its release in 1987, Illustrator has become an industry standard for creating vector-based illustrations, logos, icons, typography, and complex graphics. It is a powerful and versatile tool for vector graphic design, offering numerous advantages for professional and aspiring designers. While it has a steep learning curve and can be costly, the benefits and potential it provides for creative expression and professional work are substantial. With patience and practice, users can unlock its full potential and produce stunning, scalable designs..</p>
         </section>
 
+
  <section id="positive aspects">
             <h2>Positive aspects in using Adobe Illustrator</h2>
      <h3>Precision and Scalability</h3> 
@@ -42,6 +43,7 @@
      <p>With a large user base, there are abundant resources available for learning Illustrator, including tutorials, forums, and plugins. Adobe also provides extensive support and regular updates..</p>
         </section>
 
+
  <section id="negative aspects">
             <h2>Negative aspects in using Adobe Illustrator</h2>
      <h3>Steep Learning Curve</h3>
@@ -53,6 +55,7 @@
      <h3>Complexity for Simple Tasks</h3>
      <p>For simple graphic design tasks, Illustrator can be overkill. There are lighter, more user-friendly applications available that can accomplish basic design needs without the complexity..</p>
         </section>
+
 
  <section id="tips">
             <h2>Tips about using Adobe Illustrator</h2>
@@ -70,6 +73,12 @@
      <p>Keep your software updated to take advantage of new features and improvements Adobe releases. This ensures you have access to the latest tools and bug fixes..</p>
      <h3>Practice and Experiment</h3>
      <p>Regular practice is essential. Try recreating designs you like or experimenting with different styles and techniques to improve your skills..</p>
+        </section>
+
+
+<section id="images">
+            <h2>Images: What you can create by using Adobe Illustrator</h2>
+            <p>This is some examples of images that you can create by using Adobe Illustrator..</p>
         </section>
 
     </main>
