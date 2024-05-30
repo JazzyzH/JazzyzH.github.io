@@ -29,11 +29,16 @@
 
  <section id="positive aspects">
             <h2>Positive aspects in using Adobe Illustrator</h2>
-            <p>Precision and Scalability: Illustrator's use of vector graphics allows for the creation of artwork that can be scaled infinitely without loss of quality. This is crucial for designing logos and graphics that need to be resized for various uses, from business cards to billboards.
-Comprehensive Toolset: Illustrator offers a wide array of tools for drawing, painting, typing, and designing. This includes the Pen Tool, Shape Builder Tool, and Type Tool, each offering unique functionalities to cater to different aspects of design.
-Integration with Adobe Ecosystem: Illustrator seamlessly integrates with other Adobe Creative Cloud apps like Photoshop, InDesign, and After Effects. This integration allows for a smooth workflow between different design processes, from photo editing to video production.
-Advanced Typography: Illustrator excels in typographic design with its powerful text tools. It allows designers to manipulate text in countless ways, including kerning, tracking, and creating custom text paths.
-Community and Resources: With a large user base, there are abundant resources available for learning Illustrator, including tutorials, forums, and plugins. Adobe also provides extensive support and regular updates..</p>
+     <h3>Precision and Scalability</h3> 
+     <p>Illustrator's use of vector graphics allows for the creation of artwork that can be scaled infinitely without loss of quality. This is crucial for designing logos and graphics that need to be resized for various uses, from business cards to billboards..</p>
+     <h3>Comprehensive Toolset</h3>
+     <p>Comprehensive Toolset: Illustrator offers a wide array of tools for drawing, painting, typing, and designing. This includes the Pen Tool, Shape Builder Tool, and Type Tool, each offering unique functionalities to cater to different aspects of design..</p>
+     <h3>Integration with Adobe Ecosystem</h3>
+     <p>Illustrator seamlessly integrates with other Adobe Creative Cloud apps like Photoshop, InDesign, and After Effects. This integration allows for a smooth workflow between different design processes, from photo editing to video production..</p>
+     <h3>Advanced Typography</h3>
+     <p>Illustrator excels in typographic design with its powerful text tools. It allows designers to manipulate text in countless ways, including kerning, tracking, and creating custom text paths..</p>
+     <h3>Community and Resources</h3>
+     <p>With a large user base, there are abundant resources available for learning Illustrator, including tutorials, forums, and plugins. Adobe also provides extensive support and regular updates..</p>
         </section>
 
  <section id="negative aspects">
