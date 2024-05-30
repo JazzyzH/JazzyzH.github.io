@@ -28,6 +28,7 @@
             <p>Adobe Illustrator is a premier vector graphics editor and design program used by millions of designers and artists worldwide. Since its release in 1987, Illustrator has become an industry standard for creating vector-based illustrations, logos, icons, typography, and complex graphics. It is a powerful and versatile tool for vector graphic design, offering numerous advantages for professional and aspiring designers. While it has a steep learning curve and can be costly, the benefits and potential it provides for creative expression and professional work are substantial. With patience and practice, users can unlock its full potential and produce stunning, scalable designs..</p>
         </section>
 
+</header>
 
  <section id="positive aspects">
             <h2>Positive aspects in using Adobe Illustrator</h2>
@@ -43,6 +44,7 @@
      <p>With a large user base, there are abundant resources available for learning Illustrator, including tutorials, forums, and plugins. Adobe also provides extensive support and regular updates..</p>
         </section>
 
+</header>
 
  <section id="negative aspects">
             <h2>Negative aspects in using Adobe Illustrator</h2>
@@ -56,6 +58,7 @@
      <p>For simple graphic design tasks, Illustrator can be overkill. There are lighter, more user-friendly applications available that can accomplish basic design needs without the complexity..</p>
         </section>
 
+</header>
 
  <section id="tips">
             <h2>Tips about using Adobe Illustrator</h2>
@@ -75,6 +78,7 @@
      <p>Regular practice is essential. Try recreating designs you like or experimenting with different styles and techniques to improve your skills..</p>
         </section>
 
+</header>
 
 <section id="images">
             <h2>Images: What you can create by using Adobe Illustrator</h2>
