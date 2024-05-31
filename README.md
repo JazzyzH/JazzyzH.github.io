@@ -91,7 +91,7 @@
     <img src="Skärmavbild 2024-05-31 kl. 15.51.37.png" alt="Skärmavbild 2024-05-31 kl. 15.51.37.png" width="600">
     <img src="Skärmavbild 2024-05-31 kl. 15.47.48.png" alt="Skärmavbild 2024-05-31 kl. 15.47.48.png" width="600">
     <img src="Skärmavbild 2024-05-30 kl. 16.28.27.png" alt="Skärmavbild 2024-05-30 kl. 16.28.27.png" width="600">
-    <img src="Skärmavbild 2024-05-31 kl. 15.51.37.png" alt="Skärmavbild 2024-05-31 kl. 15.51.37.png" width="600">
+    <img src="Skärmavbild 2024-05-30 kl. 16.28.02.png" alt="Skärmavbild 2024-05-30 kl. 16.28.02.png" width="600">
         </section>
         
 
