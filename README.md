@@ -19,32 +19,34 @@
         color: rgb(255, 255, 255); /* Matching text color */
         text-align: center;
         padding: 1rem;
-}
-
-h1, h2 {
-    color: rgb(255, 255, 255); /* White heading color */
-}
-
-section {
-    margin: 2rem;
-    padding: 1rem;
-    border: 1px solid rgb(255, 255, 255); /* White border */
-    border-radius: 5px;
-    background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white background for sections */
-}
-
-a {
-    color: rgb(255, 255, 255); /* White links */
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
+        }
+        h1, h2
+        {
+            color: rgb(255, 255, 255); /* White heading color */
+        }
+        section 
+        {
+            margin: 2rem;
+            padding: 1rem;
+            border: 1px solid rgb(255, 255, 255); /* White border */
+            border-radius: 5px;
+            background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white background for sections */
+        }
+        a 
+        {
+            color: rgb(255, 255, 255); /* White links */
+            text-decoration: none;
+        }
+        a:hover 
+        {
+            text-decoration: underline;
+        }
+        <body>
 
 git add .
 git commit -m "Add CSS styling for background and text color"
 git push origin main
+
 </head>
 <body>
     <header>
