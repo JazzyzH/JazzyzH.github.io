@@ -88,6 +88,7 @@
 <section id="images">
             <h2>Images: What you can create by using Adobe Illustrator</h2>
             <p>This is some examples of images that you can create by using Adobe Illustrator.</p>
+    <br>
     <img src="Rosa kamera.png" alt="Rosa kamera.png" width="600">
     <img src="Rosa ipod.png" alt="Rosa ipod.png" width="600">
     <img src="Blommor.png" alt="Blommor.png" width="600">
