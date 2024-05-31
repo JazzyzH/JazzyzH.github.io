@@ -93,9 +93,9 @@
 <br>
 <br>
 
-    </main>
+ </main>
 
-    <footer>
+<footer>
         <p>&copy; 2024 Adobe Illustrator Guide</p>
     </footer>
     
