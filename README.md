@@ -6,19 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adobe Illustrator Guide</title>
     <link rel="stylesheet" href="css/styles.css">
-    body {
-    background-color: rgb(255, 192, 203); /* Light pink background */
-    color: rgb(255, 255, 255); /* White text color */
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header, footer {
-    background-color: rgb(255, 192, 203); /* Matching header and footer background */
-    color: rgb(255, 255, 255); /* Matching text color */
-    text-align: center;
-    padding: 1rem;
+    <style>
+        <body>
+        {
+        background-color: rgb(255, 192, 203); /* Light pink background */
+        color: rgb(255, 255, 255); /* White text color */
+        font-family: Roboto, sans-serif;
+        margin: 0;
+        padding: 0;
+        }
+        background-color: rgb(255, 192, 203); /* Matching header and footer background */
+        color: rgb(255, 255, 255); /* Matching text color */
+        text-align: center;
+        padding: 1rem;
 }
 
 h1, h2 {
@@ -42,7 +42,7 @@ a:hover {
     text-decoration: underline;
 }
 
-    git add .
+git add .
 git commit -m "Add CSS styling for background and text color"
 git push origin main
 </head>
