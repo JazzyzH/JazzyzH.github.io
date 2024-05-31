@@ -8,38 +8,9 @@
     <link rel="stylesheet" href="css/styles.css">
     <style>
         <body>
-        {
-        background-color: rgb(255, 192, 203); /* Light pink background */
-        color: rgb(255, 255, 255); /* White text color */
+        {/
+        *Apply Roboto font globally*/ 
         font-family: Roboto, sans-serif;
-        margin: 0;
-        padding: 0;
-        }
-        background-color: rgb(255, 192, 203); /* Matching header and footer background */
-        color: rgb(255, 255, 255); /* Matching text color */
-        text-align: center;
-        padding: 1rem;
-        }
-        h1, h2
-        {
-            color: rgb(255, 255, 255); /* White heading color */
-        }
-        section 
-        {
-            margin: 2rem;
-            padding: 1rem;
-            border: 1px solid rgb(255, 255, 255); /* White border */
-            border-radius: 5px;
-            background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white background for sections */
-        }
-        a 
-        {
-            color: rgb(255, 255, 255); /* White links */
-            text-decoration: none;
-        }
-        a:hover 
-        {
-            text-decoration: underline;
         }
         <body>
 
