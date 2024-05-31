@@ -88,6 +88,11 @@
 <section id="images">
             <h2>Images: What you can create by using Adobe Illustrator</h2>
             <p>This is some examples of images that you can create by using Adobe Illustrator.</p>
+    <img src="example.jpg" alt="Example Image" width="600">
+        </section>
+        <section>
+            <h2>Example Image</h2>
+            <img src="example.jpg" alt="Example Image" width="600">
         </section>
 
 <br>
