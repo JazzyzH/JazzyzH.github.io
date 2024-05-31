@@ -6,17 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adobe Illustrator Guide</title>
     <link rel="stylesheet" href="css/styles.css">
-    <style>
         <body>
         {/
         *Apply Roboto font globally*/ 
         font-family: Roboto, sans-serif;
         }
         <body>
-
-git add .
-git commit -m "Add CSS styling for background and text color"
-git push origin main
 
 </head>
 <body>
