@@ -91,7 +91,7 @@
     <img src="Rosa kamera.png" alt="Rosa kamera.png" width="600">
     <img src="Rosa ipod.png" alt="Rosa ipod.png" width="600">
     <img src="Blommor.png" alt="Blommor.png" width="600">
-    <img src="Skärmavbild 2024-05-30 kl. 16.28.02.png" alt="Skärmavbild 2024-05-30 kl. 16.28.02.png" width="600">
+    <img src="Energidryck.png" alt="Energidryck.png" width="600">
         </section>
         
 
