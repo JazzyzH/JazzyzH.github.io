@@ -30,7 +30,6 @@
         </section>
 
 <br>
-<br>
 
  <section id="positive aspects">
             <h2>Positive aspects in using Adobe Illustrator</h2>
@@ -47,7 +46,6 @@
         </section>
 
 <br>
-<br>
 
  <section id="negative aspects">
             <h2>Negative aspects in using Adobe Illustrator</h2>
@@ -61,7 +59,6 @@
      <p>For simple graphic design tasks, Illustrator can be overkill. There are lighter, more user-friendly applications available that can accomplish basic design needs without the complexity.</p>
         </section>
 
-<br>
 <br>
 
  <section id="tips">
@@ -82,7 +79,6 @@
      <p>Regular practice is essential. Try recreating designs you like or experimenting with different styles and techniques to improve your skills.</p>
         </section>
 
-<br>
 <br>
 
 <section id="images">
@@ -105,6 +101,6 @@
         <p>&copy; 2024 Adobe Illustrator Guide</p>
     </footer>
     
-    <script src="js/scripts.js"></script>
+<script src="js/scripts.js"></script>
 </body>
 </html>
