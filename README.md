@@ -23,7 +23,6 @@
 
 <main>
 <br>
-<br>
         
 <section id="overview">
             <h2>Overview: Introduction to Adobe Illustrator</h2>
