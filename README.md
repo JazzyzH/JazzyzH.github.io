@@ -101,6 +101,5 @@
         <p>&copy; 2024 Adobe Illustrator Guide</p>
     </footer>
     
-<script src="js/scripts.js"></script>
 </body>
 </html>
