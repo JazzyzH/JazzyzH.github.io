@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(255, 192, 203); /* Bakgrundsfärg */
+  color: white; /* Textfärg */ font-family: 'Roboto', sans-serif; /* Typsnitt */
+}
+
+h1 {
+  font-weight: 700; /* Roboto Bold */
+}
+p {
+  font-weight: 400; /* Roboto Regular */
+}
